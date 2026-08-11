@@ -3,6 +3,6 @@
 "name": "geo_12_地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "ヴェルデセントレ北条【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】千葉県館山市北条１０９０－３", "url2": "https://www.kaigokensaku.mhlw.go.jp/12/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1291000188-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.870157, 34.9939477 ] } }
+{ "type": "Feature", "properties": { "内容": "ヴェルデセントレ北条【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】千葉県館山市北条１０９０－３", "url": "https://www.kaigokensaku.mhlw.go.jp/12/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1291000188-00&ServiceCd=&Type=search", "url2": "https://hojo-byoin.jp/group/centre.html" }, "geometry": { "type": "Point", "coordinates": [ 139.870157, 34.9939477 ] } }
 ]
 }
